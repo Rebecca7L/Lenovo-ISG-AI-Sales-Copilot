@@ -127,11 +127,11 @@ Manufacturing（制造业）
 
 未来可扩展：
 
-- Retail
-- Education
-- Government
-- Telecom
-- Energy
+- Retail (零售)
+- Education (教育)
+- Government (政府)
+- Telecom (电信)
+- Energy (能源）
 
 ---
 
@@ -202,7 +202,7 @@ Manufacturing（制造业）
 
 **Jianan(Rebecca) Li**
 
-Master of Quantitative Management (Business Analytics)
+Master of Quantitative Management (Business Analytics) - Strategy Track
 
 2026
 
