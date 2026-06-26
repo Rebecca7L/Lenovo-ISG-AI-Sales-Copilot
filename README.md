@@ -152,6 +152,27 @@ Manufacturing（制造业）
 
 ---
 
+## Demo Screenshots
+
+### 1. AI Sales Copilot Interface
+
+<img width="1440" height="778" alt="    AI-generated Lenovo ISG Solution Recommendation" src="https://github.com/user-attachments/assets/12a2513b-68f5-4c3e-93de-18ec4e0ee43c" />
+
+
+### 2. Example Input (BMW Manufacturing Case)
+
+<img width="1440" height="777" alt="BMW Manufacturing" src="https://github.com/user-attachments/assets/5ad7b354-3e16-4e8a-8335-bba93f0c135d" />
+
+
+### 3. AI-generated Lenovo ISG Solution Recommendation
+
+<img width="1439" height="633" alt="BMW_Output1" src="https://github.com/user-attachments/assets/290843f0-5a04-45ae-9914-7b3a76467fe8" />
+
+<img width="1440" height="631" alt="BMW_Output2" src="https://github.com/user-attachments/assets/86ae27f2-e02b-4ff0-9cae-15d76c067717" />
+
+<img width="1440" height="636" alt="BMW_Output3" src="https://github.com/user-attachments/assets/4bc18837-2bd2-48fb-aa18-025cec177a70" />
+
+
 # Business Value（项目价值）
 
 本项目展示了 Generative AI 在企业售前咨询（Pre-sales Consulting）中的应用价值。
