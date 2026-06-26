@@ -80,7 +80,6 @@
 - AI Lifecycle Management
 - Expected Business Value
 
-> 为避免生成错误产品型号，本项目采用 **Solution Architecture（解决方案架构）** 推荐，而非具体硬件型号。
 
 ---
 
